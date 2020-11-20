@@ -2,7 +2,8 @@
 
 <br>
 <p>Utilizei HTML, CSS e Bootstrap 4 pra fazer</p>
-<h2>Link no vercel: [Landingpage live preview](landingpage.eugeniofreire.vercel.app)</h2>
+<h2>Link no vercel:</h2>
+<landingpage.eugeniofreire.vercel.app/>
 <br>
 
 ![](https://raw.githubusercontent.com/eugeniocarvalho/site-landingpage/master/landing-fast-free-html-landing-page-site-template.jpg?token=AMXQ544BGUB6K4AS3K6CZ3K7WZ2OI)

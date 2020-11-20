@@ -4,7 +4,7 @@
 <p>Utilizei HTML, CSS e Bootstrap 4 pra fazer</p>
 <h2>Link no vercel:</h2>
 
-<ttps://landingpage.eugeniofreire.vercel.app/>
+<https://landingpage.eugeniofreire.vercel.app/>
 
 <br>
 
